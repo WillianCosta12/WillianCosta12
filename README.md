@@ -1,23 +1,38 @@
-### Hi there 👋
+# Willian Costa
+### Builder. Automation × Web × AI.
 
-<div align="center">
-  <a href="https://github.com/WillianCosta12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianCosta12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianCosta12&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Dev from Natal, Brazil. Most of my work sits between three things: automation, full-stack web, and applying LLMs to real workflows.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## About
 
- ##
+The bulk of what I ship looks like this:
 
-<div> 
-  <a href = "mailto:willacosta873@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willian-araújo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+- **Automation** — n8n flows, Make scenarios, Python scripts that connect APIs and kill repetitive work. Most of my client work lives here.
+- **Web products** — Next.js + Supabase, end to end. Auth, schema, frontend, deploy.
+- **AI** — assistants, RAG, agents. Less interested in demos, more interested in stuff that holds up after the first 50 messages.
+
+Right now I'm building **Jarvis**, a personal AI assistant that ties together email, calendar, tasks, finance, health and study. Stack: Next.js 15 + Supabase + Groq (Llama 3.3 70B). Pre-v1 and still rough around the edges, but it's the project I keep coming back to.
+
+## Stack
+
+What I actually use day to day:
+
+- **Automation** — n8n, Make, Python (requests, FastAPI), Webhooks
+- **Frontend** — Next.js 15, React, TypeScript, Tailwind, shadcn/ui
+- **Backend & Data** — Node.js, Python, Supabase (Postgres + Auth + pgvector)
+- **AI** — Anthropic Claude, Groq, embeddings, RAG, prompt engineering
+- **Tooling** — Vercel, GitHub Actions, Git
+
+## Currently
+
+- Shipping Jarvis piece by piece
+- Turning client automations into open-source templates (anonymized)
+- Digging into agent patterns — which ones actually survive past the demo stage
+
+## Contact
+
+LinkedIn — [willian-costa1](https://www.linkedin.com/in/willian-costa1/)  
+Email — willacosta873@gmail.com  
+Natal, Brazil · UTC−3
+
+Open to remote work and freelance.
