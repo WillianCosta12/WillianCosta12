@@ -31,7 +31,7 @@ What I actually use day to day:
 
 ## Contact
 
-LinkedIn — [willian-costa1](https://www.linkedin.com/in/williancosta-dev/)  
+LinkedIn — [willian-costa](https://www.linkedin.com/in/williancosta-dev/)  
 Email — willacosta873@gmail.com  
 Natal, Brazil · UTC−3
 
